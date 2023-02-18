@@ -1,2 +1,6 @@
 desde el repositorio local
+
 La tercer linea hecha en el cambio hecho desde el Repositorio Local
+
+La linea dos se esta editando desde el Repositorio de la Red
+
